@@ -95,7 +95,7 @@ print(f"Confidence : {probs[pred_idx]:.4f}")
 
 ## Results
 
-> The model achieved a **70% tumor detection rate**.
+> The model achieved a **more than 90% tumor detection rate**.
 > Detailed training results (accuracy, loss curves, confusion matrix) are available inside the notebook `breast-tumor-mammography.ipynb`.
 
 ---
